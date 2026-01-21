@@ -30,7 +30,7 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 ### 荣誉奖项
   - 2025.09 &emsp; &emsp; &emsp;首届CCF中国计算艺术大会最佳作品（指导教师）
  
-  - 2025.08 &emsp; &emsp; &emsp;第13届未来设计师·全国高校数字艺术设计大赛优秀指导教师
+  - 2025.08 &emsp; &emsp; &emsp;第十三届未来设计师·全国高校数字艺术设计大赛优秀指导教师
   
   - 2025.04 &emsp; &emsp; &emsp;第十五届北京国际电影节AIGC电影单元最佳美术设计（指导教师）
   
