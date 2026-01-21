@@ -52,7 +52,9 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 
 
 ### 学术成果
-   - V. Sowmya, **T. Xue**, A. el Ali, I. Viola,R. Flynn, P. Corcoran and P. Cesar, “RCQoEA-360VR: Real-time Continuous QoE Scores for HMD-based 360 VR Dataset, ” in Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM 2025). **CCF A类会议，第二作者**
+  - V. Sowmya, **T. Xue**, A. el Ali, I. Viola,R. Flynn, P. Corcoran and P. Cesar, “RCQoEA-360VR: Real-time Continuous QoE Scores for HMD-based 360 VR Dataset, ” in Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM 2025). **CCF A类会议，第二作者**
+
+  - **T. Xue**, Y. Chen, D. Yan, S. Luo, “Digital Liveness: Evaluating Liveness for Live and Mediatized Theater Performance by Audience Experience Measurements, ” in 2025 2nd International Conference on Digital Society and Artificial Intelligence (DASI 2025). **EI会议，第一作者**
 
   - **T. Xue**, A. El Ali, I. Viola, G. Ding and P. Cesar, "Designing Real-time, Continuous QoE Score Acquisition Techniques for HMD-based 360 VR Video Watching," to be published in 2022 Eighth International Conference on Quality of Multimedia Experience (QoMEX). **EI会议, 第一作者**
 
