@@ -20,7 +20,7 @@
 I received B.E. degree from Communication University of China in 2016. I am currently working toward the PhD degree in School of Computer Science and Technology, Beijing Institute of Technology, supervised by Prof. Gangyi Ding. I am a joint PhD student at [Distributed and Interactive Systems](https://www.dis.cwi.nl/), [Centrum Wiskunde \& Informatica (CWI)](https://www.cwi.nl/), supervised by [Prof. Pablo Cesar](https://www.pablocesar.me/) and [Dr. Abdallah El Ali](https://abdoelali.com/). My research interests lie in human-computer interaction and affective computing.
 
 ### 教育背景
-  - 2017.09~2022.07 &emsp; 北京理工大学 软件工程（工学博士）
+  - 2017.09~2022.07 &emsp; 北京理工大学 软件工程（工学博士、硕博连读）
   
   - 2019.10~2020.10 &emsp; 荷兰数学与计算机国家科学研究院（国家公派联合培养博士）
   
@@ -28,25 +28,27 @@ I received B.E. degree from Communication University of China in 2016. I am curr
 
 
 ### 荣誉奖项
-  - 2022.07 &emsp; &emsp; &emsp;北京市优秀毕业生，北京理工大学优秀毕业生
+  - 2025.09 &emsp; &emsp; &emsp;首届CCF中国计算艺术大会最佳作品（指导教师）
  
-  - 2021.10 &emsp; &emsp; &emsp;2021年度中国仿真学会科学技术一等奖（主要完成人）
+  - 2025.08 &emsp; &emsp; &emsp;第13届未来设计师·全国高校数字艺术设计大赛优秀指导教师
   
-  - 2021.07 &emsp; &emsp; &emsp;庆祝共产党成立100周年文艺演出、庆祝大会个人贡献奖
+  - 2025.04 &emsp; &emsp; &emsp;第十五届北京国际电影节AIGC电影单元最佳美术设计（指导教师）
   
-  - 2021.05 &emsp; &emsp; &emsp;北京理工大学-2021年度“科研创新”榜样（每年度仅一人）
+  - 2025.03 &emsp; &emsp; &emsp;亚冬会执行委员会，哈尔滨2025年第九届亚冬会开闭幕式贡献奖
   
-  - 2020.12 &emsp; &emsp; &emsp;第十二届“挑战杯”中国大学生创业计划竞赛国家级银奖（项目负责人）
+  - 2024.12 &emsp; &emsp; &emsp;中国创新影像大赛光影景观赛道一等奖（指导教师）
 
-  - 2020.11 &emsp; &emsp; &emsp;第六届中国（国际）大学生“互联网+”创新创业大赛国家级金奖（项目负责人）
+  - 2024.11 &emsp; &emsp; &emsp;北京电影学院第十三届青年教师教学基本功比赛一等奖、最佳教案奖、最佳教学演示奖
   
-  - 2020.09 &emsp; &emsp; &emsp;北京地区高校大学生优秀创业团队一等奖（团队负责人）
+  - 2022.03 &emsp; &emsp; &emsp;杭州亚组委，杭州亚运会及亚残运会贡献奖
   
-  - 2019.11 &emsp; &emsp; &emsp;共和国成立70周年庆祝活动贡献奖，先进个人
+  - 2021.07 &emsp; &emsp; &emsp;冬奥组委，北京2022年冬奥会及冬残奥会开闭幕式贡献奖
   
-  - 2017—2020 &emsp;  北京市三好学生，杰瑞奖学金，联想奖学金，学业一等奖学金，校优秀学生干部
+  - 2020.12 &emsp; &emsp; &emsp;中宣部，庆祝共产党成立100周年文艺演出《伟大征程》、庆祝大会个人贡献奖
   
-  - 2016.06 &emsp; &emsp; &emsp;国家奖学金，北京市三好学生，北京市优秀毕业生
+  - 2020.11 &emsp; &emsp; &emsp;教育部，第六届中国（国际）大学生“互联网+”创新创业大赛国家级金奖
+  
+  - 2019.11 &emsp; &emsp; &emsp;北京市委，共和国成立70周年庆祝活动个人贡献奖
 
 
 ### 学术成果
